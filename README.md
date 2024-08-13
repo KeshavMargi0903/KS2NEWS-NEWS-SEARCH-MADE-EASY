@@ -24,7 +24,7 @@ To run the KS2NEWS project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/KS2NEWS.git
+   git clone https://github.com/KeshavMargi0903/KS2NEWS.git
    ```
 
 2. **Navigate to the project directory:**
